@@ -82,5 +82,7 @@ Soldering is quite simple, once you follow the board layout and schematic in Eag
 ### Cautionary Measures
 * Do Not place your hands between Antenna when powered on.
 * Do not supply higher voltage than necessary.
-* Avoid jamming the antennae since that may cause disfunction in the signal.
+* Avoid jamming the antennae since that may cause an interuption in the signal.
+* Follow Lab rules
+* Properly put away Boards.
 
