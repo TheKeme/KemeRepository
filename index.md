@@ -12,6 +12,7 @@ Heakeme's Blog.
 
 | Date | Deliverable | link |  
 | ----------------------- | ---------------- | ---------------- | 
+| January 19, 2017 | Power Point Presentation | Created Power Point [Here](https://github.com/TheKeme/SensorEffector/blob/master/DOCUMENTS/DMXSENDERPowerPoint.pptx)
 | January 12, 2017 | Updated Budget | Created Updated Budget [Updated Budget](https://github.com/TheKeme/SensorEffector/blob/master/DOCUMENTS/HeakemeUpdatedBudget.xlsx)
 | January 12, 2017 | Board Final Completion| Created Zip File [DMX SENDER ZIP](https://github.com/TheKeme/SensorEffector/blob/master/ZIP%20FILES/DMX%20Sender.zip) Final Board ![Image of the FInal Board](https://github.com/TheKeme/SensorEffector/blob/master/IMAGES/DMXSENDERFINAL.PNG)
 | December 22, 2017 | Crystal Fountain Progress Report| Created [Progress Report](https://github.com/TheKeme/SensorEffector/blob/master/DOCUMENTS/PROGRESSREPORT.docx) NEW ORDER ![Image of the NEW ORDER](https://github.com/TheKeme/SensorEffector/blob/master/IMAGES/orderfornewboard.jpeg)
