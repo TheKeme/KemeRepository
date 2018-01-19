@@ -1,7 +1,8 @@
 # KemeRepository
 Heakeme Williams
-                                                          
-                                                         ## BUILD INSTRUCTIONS 
+
+# DMX Board For Crystal Fountains Build Instrutions
+                                                         
                                                           
 
 ### Background Knowledge
@@ -18,10 +19,11 @@ The crystal fountain uses a DMX-Generator which produces the DMX differential si
 * SMA Adapter Cable
 * UFL SMT Antenna Connector
 * Female 16 pos Header
-* Conn Female Header 12 pos
+* Conn Header 100 pins
 * Con IC Dip Socket 16 pos
 * IC MC3486N
 * Conn Audio Male 3 COND
+
 
 ### Boards Needed 
 
@@ -30,6 +32,15 @@ Designing the boards can be quite an annoying process, however, I have designed 
 ![Image of the FInal Board](https://github.com/TheKeme/SensorEffector/blob/master/IMAGES/DMXSENDERFINAL.PNG)
 
 * To download the DMX Breakout Board, please click [HERE](https://github.com/TheKeme/SensorEffector/blob/master/ZIP%20FILES/Linx%20Breakout.zip) 
+
+
+### Components Needed For Testing
+
+* DMX Generator
+* Receiver 
+* Lights
+* Power Adapters
+
 
 ### Soldering Materials Bought to Board
 
@@ -43,4 +54,33 @@ Soldering is quite simple, once you follow the board layout and schematic in Eag
 
 4. The resistors are easy to solder and can be done so anytime. However, make sure they have the right configuration or else it will cause a shortage in the ciruit.
 
-5. Last point when soldering to the pins to the break out board it is easier to do so on a bread board.
+5. Last point when soldering to the Con Header 100 pins to the break out board it is easier to do so on a bread board.
+
+
+### Implementing Everything Together / Testing.
+
+1. Connect the power adapter to the DMX Generator and provide 12 volts towards it, however do not emanate the voltage just yet.
+
+2. Connect the XLR cable to the DMX Sender board, Remember to read the pin out.
+
+3. Connect the SMA Adapter cable to the Antenna and one to the UFL SMT Antenna Connector.
+
+4. Plug in the Break out board with the module to the DMX Sender Board.
+
+5. Connect the fully connected antenna to the module on the breakout board.
+
+6. Connect a 5 volts to the DMX Sender board however do not power on the supplier yet.
+
+7. Connect the antenna to the receiver board.
+
+8. Supply 12 volts to the receiver board, but dont power on the supply yet.
+
+9. Connect the lights but don't power on yet.
+
+10. Power on all supplies and observe.
+
+### Cautionary Measures
+* Do Not place your hands between Antenna when powered on.
+* Do not supply higher voltage than necessary.
+* Avoid jamming the antennae since that may cause disfunction in the signal.
+
