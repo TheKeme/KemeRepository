@@ -9,18 +9,18 @@ The crystal fountain uses a DMX-Generator which produces the DMX differential si
 
 Materials\Components Needed
 
-*Linx Module 900
-*Resistor (120 Ohms & 100K Ohms)
-*XLR Connector
-*SMA Cable
-*SMA Antenna
-*SMA Adapter Cable
-*UFL SMT Antenna Connector
-*Female 16 pos Header
-*Conn Female Header 12 pos
-*Con IC Dip Socket 16 pos
-*IC MC3486N
-*Conn Audio Male 3 COND
+* Linx Module 900
+* Resistor (120 Ohms & 100K Ohms)
+* XLR Connector
+* SMA Cable
+* SMA Antenna
+* SMA Adapter Cable
+* UFL SMT Antenna Connector
+* Female 16 pos Header
+* Conn Female Header 12 pos
+* Con IC Dip Socket 16 pos
+* IC MC3486N
+* Conn Audio Male 3 COND
 
 Boards Needed 
 
