@@ -26,5 +26,7 @@ Materials\Components Needed
 Boards Needed 
 
 Designing the boards can be quite an annoying process, however, I have designed these boards and they are available for download if needed. 
-To download the board, please click [HERE](https://github.com/TheKeme/SensorEffector/blob/master/ZIP%20FILES/DMX%20Sender.zip)
+To download the DMX Sender board, please click [HERE](https://github.com/TheKeme/SensorEffector/blob/master/ZIP%20FILES/DMX%20Sender.zip)
+![Image of the FInal Board](https://github.com/TheKeme/SensorEffector/blob/master/IMAGES/DMXSENDERFINAL.PNG)
+
 
